@@ -9,7 +9,7 @@ Imperative approach.
 $ kubectl create namespace lab01
 
 # run pod in namespace
-$ k run nginx --image=nginx:1.17.10 --port=80 --namespace=lab01
+$ kubectl run nginx --image=nginx:1.17.10 --port=80 --namespace=lab01
 ```
 
 Declerative approach.
