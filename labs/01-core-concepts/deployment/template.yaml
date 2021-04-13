@@ -1,0 +1,6 @@
+# This is a template YAML file for lab 01. 
+
+apiVersion: v1
+kind: 
+metadata:
+  name: 
